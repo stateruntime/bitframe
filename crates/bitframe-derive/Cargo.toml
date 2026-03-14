@@ -1,13 +1,13 @@
 [package]
 name = "bitframe-derive"
-version = "0.1.0" # keep in sync with VERSION file (single source of truth)
+version = "0.1.1" # keep in sync with VERSION file (single source of truth)
 edition.workspace = true
 rust-version.workspace = true
 license.workspace = true
 repository.workspace = true
 authors = ["Jan Piotrzkowski"]
 description = "Proc-macro internals for bitframe — not a public API"
-homepage = "https://github.com/piotrzkowskij/bitframe"
+homepage = "https://github.com/stateruntime/bitframe"
 documentation = "https://docs.rs/bitframe"
 keywords = ["bitfield", "proc-macro", "binary"]
 categories = ["parsing"]

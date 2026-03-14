@@ -1,13 +1,13 @@
 [package]
 name = "bitframe"
-version = "0.1.0" # keep in sync with VERSION file (single source of truth)
+version = "0.1.1" # keep in sync with VERSION file (single source of truth)
 edition.workspace = true
 rust-version.workspace = true
 license.workspace = true
 repository.workspace = true
 authors = ["Jan Piotrzkowski"]
 description = "Macro-driven bit-level packet formats with zero-copy parsing and serialization"
-homepage = "https://github.com/piotrzkowskij/bitframe"
+homepage = "https://github.com/stateruntime/bitframe"
 documentation = "https://docs.rs/bitframe"
 readme = "../../README.md"
 keywords = ["bitfield", "binary", "parser", "telemetry", "embedded"]
@@ -36,10 +36,10 @@ default = ["std"]
 std = []
 
 [dependencies]
-bitframe-derive = { path = "../bitframe-derive", version = "0.1.0" }
+bitframe-derive = { path = "../bitframe-derive", version = "0.1.1" }
 
 [dev-dependencies]
-behave = "0.7"
+behave = "0.8"
 
 [lints]
 workspace = true

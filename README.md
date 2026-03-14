@@ -2,7 +2,7 @@
 
 [![crates.io](https://img.shields.io/crates/v/bitframe.svg)](https://crates.io/crates/bitframe)
 [![docs.rs](https://docs.rs/bitframe/badge.svg)](https://docs.rs/bitframe)
-[![CI](https://github.com/piotrzkowskij/bitframe/actions/workflows/ci.yml/badge.svg)](https://github.com/piotrzkowskij/bitframe/actions/workflows/ci.yml)
+[![CI](https://github.com/stateruntime/bitframe/actions/workflows/ci.yml/badge.svg)](https://github.com/stateruntime/bitframe/actions/workflows/ci.yml)
 [![License](https://img.shields.io/crates/l/bitframe.svg)](LICENSE)
 [![MSRV](https://img.shields.io/badge/MSRV-1.75-blue.svg)](https://blog.rust-lang.org/)
 

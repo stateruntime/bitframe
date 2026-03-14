@@ -9,6 +9,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.1] — 2026-03-14
+
+### Fixed
+
+- GitHub URLs now point to `stateruntime/bitframe` organization
+
+### Changed
+
+- Bumped `behave` dev-dependency from 0.7 (git) to 0.8 (crates.io)
+
 ### Added
 
 - Reference implementation test vectors from published sources:
@@ -35,5 +45,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - CI pipeline: fmt, clippy (pedantic + nursery), tests, docs, MSRV 1.75, cargo-deny
 - Release automation for crates.io via tag-triggered workflow
 
-[Unreleased]: https://github.com/piotrzkowskij/bitframe/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/piotrzkowskij/bitframe/releases/tag/v0.1.0
+[Unreleased]: https://github.com/stateruntime/bitframe/compare/v0.1.1...HEAD
+[0.1.1]: https://github.com/stateruntime/bitframe/compare/v0.1.0...v0.1.1
+[0.1.0]: https://github.com/stateruntime/bitframe/releases/tag/v0.1.0

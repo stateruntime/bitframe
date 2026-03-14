@@ -6,7 +6,7 @@ members = ["crates/bitframe", "crates/bitframe-derive"]
 edition = "2021"
 rust-version = "1.75"
 license = "Apache-2.0"
-repository = "https://github.com/piotrzkowskij/bitframe"
+repository = "https://github.com/stateruntime/bitframe"
 
 [workspace.dependencies]
 proc-macro2 = "1"

@@ -11,7 +11,7 @@ Only the latest release receives fixes. There is no backporting to older version
 
 **Do NOT open a public issue for security vulnerabilities.**
 
-Instead, use [GitHub's private vulnerability reporting](https://github.com/piotrzkowskij/bitframe/security/advisories/new)
+Instead, use [GitHub's private vulnerability reporting](https://github.com/stateruntime/bitframe/security/advisories/new)
 or email the maintainer directly.
 
 Please include:

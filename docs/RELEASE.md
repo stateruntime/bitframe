@@ -27,8 +27,8 @@ Rename `[Unreleased]` to the new version with today's date. Add a fresh `[Unrele
 Update the comparison links at the bottom:
 
 ```markdown
-[Unreleased]: https://github.com/piotrzkowskij/bitframe/compare/v0.2.0...HEAD
-[0.2.0]: https://github.com/piotrzkowskij/bitframe/compare/v0.1.0...v0.2.0
+[Unreleased]: https://github.com/stateruntime/bitframe/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/stateruntime/bitframe/compare/v0.1.0...v0.2.0
 ```
 
 ### 3. Pre-release checks
